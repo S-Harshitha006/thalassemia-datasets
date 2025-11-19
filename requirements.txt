@@ -1,0 +1,9 @@
+streamlit
+joblib
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+tensorflow # if you used CNN
+imbalanced-learn
