@@ -92,8 +92,7 @@ if st.button("Predict Thalassemia"):
         st.error(f"An error occurred during prediction: {e}")
 
 st.markdown("--- ")
-st.caption("Note: This is a demo application for educational purposes. Consult a medical professional for diagnosis.")
-'''
+
 
 with open("app.py", "w", encoding="utf-8") as f:
     f.write(streamlit_code)
